@@ -1,0 +1,8 @@
+{
+  "name": "SimpleAuth",
+  "description": "A user-friendly authentication plugin for Grasscutter.",
+  "author": "KingRainbow44",
+  
+  "mainClass": "tech.xigam.simpleauth.SimpleAuth",
+  "version": "1.0.0"
+}
